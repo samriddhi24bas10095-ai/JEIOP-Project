@@ -1,0 +1,16 @@
+# Project Overview: Java E-commerce Order and Inventory Processor (JEIOP)
+
+ ## 1. Problem Description
+ Without costly software, small businesses frequently find it difficult to manage inventory and orders.  The challenge is to provide a straightforward, text-only, Java-based solution that uses basic programming concepts to process simulated orders, track product stock, and compute sales metrics.
+
+
+ ## 2. Project Scope
+ The project is a Command Line Interface (CLI) application that focusses on fundamental Java concepts. Inclusions: Three main modules (Inventory CRUD, Order Processing, Sales Reporting), OOP concepts, and File I/O for data persistence. Exclusions: GUI, external databases, networking.
+
+ ## 3. The intended audience
+ Programming students need an example of object modelling and data structure application; small e-commerce sellers need a simple, dependable stock tracking tool.
+
+## 4. High-Level Features
+1.  Inventory CRUD: Create, Read, Update, Delete products.
+2.  Order Processing: Simulate purchases and reduce stock levels.
+3.  Sales Reporting: Calculate total revenue and inventory valuation.
